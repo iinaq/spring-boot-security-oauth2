@@ -37,7 +37,6 @@ public class ResourceServerConfiguration extends ResourceServerConfigurerAdapter
 
     /**
      * 定义一个oauth2的请求匹配器
-     * @author leftso
      *
      */
     private static class OAuth2RequestedMatcher implements RequestMatcher {

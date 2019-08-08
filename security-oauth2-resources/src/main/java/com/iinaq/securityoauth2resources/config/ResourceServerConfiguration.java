@@ -20,7 +20,6 @@ import org.springframework.security.web.util.matcher.RequestMatcher;
 /**
  * 资源服务端
  *
- * @author leftso
  *
  */
 @Configuration

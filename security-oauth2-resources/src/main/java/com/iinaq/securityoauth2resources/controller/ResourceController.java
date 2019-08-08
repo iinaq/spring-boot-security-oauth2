@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 /***
  * 受保护的资源服务
  *
- * @author leftso
  *
  */
 @RestController

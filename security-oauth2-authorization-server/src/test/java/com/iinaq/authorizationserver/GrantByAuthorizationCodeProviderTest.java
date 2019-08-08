@@ -31,7 +31,6 @@ import org.jose4j.jwt.consumer.JwtContext;
 /***
  * 通过授权码方式访问受限资源
  *
- * @author leftso
  *
  */
 @RunWith(SpringRunner.class)
