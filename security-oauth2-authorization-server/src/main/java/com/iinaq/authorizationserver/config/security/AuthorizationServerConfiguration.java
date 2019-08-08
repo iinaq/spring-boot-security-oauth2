@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * 认证授权服务端
  *
- *
+ * url: /oauth/token
  */
 @Configuration
 @EnableAuthorizationServer
