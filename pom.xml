@@ -15,4 +15,8 @@
     <description>Demo project for Spring Boot</description>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>security-oauth2-authorization-server</module>
+        <module>security-oauth2-resources</module>
+    </modules>
 </project>
